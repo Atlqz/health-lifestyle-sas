@@ -90,18 +90,6 @@ health-lifestyle-sas/
 
 Synthetic Health & Lifestyle dataset of 5,010 individuals — used for academic purposes as part of the CT075-3-2 Data Management module at Asia Pacific University (APU). Dataset is not publicly distributed.
 
----
-
-## Academic Context
-
-**Module:** CT075-3-2 — Data Management  
-**Institution:** Asia Pacific University of Technology & Innovation (APU)  
-**Year:** 2025  
-**Role:** Group Leader — responsible for EDA, data cleaning, transformation, and reduction (Part 1)
-
-> Note: This repository contains my individual technical contributions (the SAS pipeline and analysis) from a group assignment. The data mining research sections (Part 2) were written by group members and are not included here.
-
----
 
 ## What I Would Do Next
 
